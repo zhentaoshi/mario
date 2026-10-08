@@ -1,6 +1,6 @@
 # Mario's World
 
-![](/Users/zhshi/Desktop/mario/preview/menu-preview.png)
+![](preview/menu-preview.png)
 
 A small Python/Pygame platformer inspired by the opening of 1985's World 1-1.
 The scene and sprites are drawn in code: blue sky, pixel clouds, hills, brick
@@ -8,7 +8,7 @@ ground, a green pipe, a little Mario, and a central question block. It uses
 original pixel artwork, an original chiptune loop, and synthesized sound effects, with no ROM,
 downloaded game assets, or paid software required.
 
-![](/Users/zhshi/Desktop/mario/preview/endogeneity-preview.png)
+![](preview/endogeneity-preview.png)
 
 ## Start on this Mac
 
